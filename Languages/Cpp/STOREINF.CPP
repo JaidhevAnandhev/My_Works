@@ -1,0 +1,1 @@
+//This is a program to store information using structure keyword
